@@ -8,49 +8,49 @@
     "colorSwatches":
     {
         "Swatch 1": {
-            "color1":"#e8e6e0",
-            "color2":"#51604b",
-            "color3":"#141414",
-            "color4":"#141414",
-            "color5":"#4b4b4b",
+            "color1":"#A6A6AD",
+            "color2":"#33333F",
+            "color3":"#ED1846",
+            "color4":"#ED1846",
+            "color5":"#59595F",
             "color6":"#ffffff",
-            "color7":"#141414"
+            "color7":"#33333F"
         },
         "Swatch 2": {
-            "color1":"#e8e6e0",
-            "color2":"#b8860b",
-            "color3":"#dad8d4",
-            "color4":"#141414",
+            "color1":"#F1F2D8",
+            "color2":"#425955",
+            "color3":"#778C7A",
+            "color4":"#425955",
             "color5":"#4b4b4b",
-            "color6":"#ffffff",           
-            "color7":"#778899"
+            "color6":"#F1F2D8",           
+            "color7":"#BFBD9F"
         },
         "Swatch 3": {
-            "color1":"#e8e6e0",
-            "color2":"#4682B4",
+            "color1":"#FFF5CF",
+            "color2":"#7F6854",
             "color3":"#dad8d4",
-            "color4":"#141414",
+            "color4":"#7F6854",
             "color5":"#4b4b4b",
-            "color6":"#ffffff",
-            "color7":"#4b4b4b"
+            "color6":"#DBCDAD",
+            "color7":"#7F6854"
         },
         "Swatch 4": {
-            "color1":"#e8e6e0",
-            "color2":"#C19F74",
+            "color1":"#324152",
+            "color2":"#C1836A",
             "color3":"#dad8d4",
-            "color4":"#141414",
-            "color5":"#4b4b4b",
-            "color6":"#ffffff",
-            "color7":"#222F38"
+            "color4":"#ffffff",
+            "color5":"#ffffff",
+            "color6":"#324152",
+            "color7":"#796466"
         },
         "Swatch 5": {
-            "color1":"#e8e6e0",
-            "color2":"#81725D",
+            "color1":"#A1A194",
+            "color2":"#A90641",
             "color3":"#dad8d4",
             "color4":"#141414",
             "color5":"#4b4b4b",
             "color6":"#ffffff",
-            "color7":"#76948a"
+            "color7":"#464646"
         }
     },
     "images":[
