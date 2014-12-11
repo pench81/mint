@@ -1,0 +1,18 @@
+{% extends "layout.twig" %}
+{% block content %}
+
+{% include 'includes/header.twig' %}
+
+<div class="bk-pt-home">
+
+	{{widget('feature', 'feature', {"header": "This is the title", "strapline":"This is the description.", "buttonText":"n","defaultBgImg": asset('images/feature.jpg'), 'positionTopPercentage': '50','showBtn': false})|raw}}
+
+	<div role="main" class="container">
+		{{zone('main')|raw}}
+	</div><!--end main-->
+
+</div><!--end bk-pt-home-->
+
+{% include 'includes/footer.twig' %}
+
+{% endblock %}

@@ -1,0 +1,17 @@
+<!-- Header Include !-->
+
+<header class="bk-header">
+	<div class="container contact">
+		{{widget('profile', 'header-social', { 'profileType':'socialicons', 'socialicons':'profile'})|raw}}
+		{{widget('profile', 'header-phone', { 'profileType':'phone', 'phone':'profile'})|raw}} 
+	</div>
+	<nav class="bk-nav">
+		<div class="container">
+			<div class="brand">
+				{{widget('logo', 'logo', {"defaultlogo": asset('images/logo.png'),"showTplWidget":"1"})|raw}}
+				{{widget('companyname', 'companyname', {"business": "profile"})|raw}}
+			</div><!--end brand-->
+			{{widget('extendednavigation', 'header-navigation', {"align":"right"})|raw}}
+		</div>
+	</nav>
+</header>
